@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1558969692 source:c:\documents and settings\artur\pulpit\studia\semester 2\oop\projekt\zoo\main.cpp
+	<iostream>
+	<fstream>
+	<Animal.h>
+	<Menu.h>
+
+1558664898 c:\documents and settings\artur\pulpit\studia\semester 2\oop\projekt\zoo\include\animal.h
+	<iostream>
+	<string>
+
+1558664898 source:c:\documents and settings\artur\pulpit\studia\semester 2\oop\projekt\zoo\src\animal.cpp
+	"Animal.h"
+	<iostream>
+	<string>
+
+1558968801 c:\documents and settings\artur\pulpit\studia\semester 2\oop\projekt\zoo\include\menu.h
+	"Animal.h"
+
+1558970169 source:c:\documents and settings\artur\pulpit\studia\semester 2\oop\projekt\zoo\src\menu.cpp
+	"Menu.h"
+	<fstream>
+	<iostream>
+
